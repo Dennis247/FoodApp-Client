@@ -1,16 +1,19 @@
-# provider_pattern
+# Food App Client
 
-A new Flutter project.
+Food ordering app done using firebase and provider pattern for state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+replace the firebase apikey with yours and the link too and you are good to go.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![alt text](https://github.com/Dennis247/FoodApp-Client/blob/master/screen_shot/1.jpeg) ![alt text](https://github.com/Dennis247/FoodApp-Client/blob/master/screen_shot/2.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/Dennis247/FoodApp-Client/blob/master/screen_shot/3.jpeg) ![alt text](https://github.com/Dennis247/FoodApp-Client/blob/master/screen_shot/4.jpeg)
+
+![alt text](https://github.com/Dennis247/FoodApp-Client/blob/master/screen_shot/5.jpeg)  ![alt text](https://github.com/Dennis247/FoodApp-Client/blob/master/screen_shot/6.jpeg)
+
+![alt text](https://github.com/Dennis247/FoodApp-Client/blob/master/screen_shot/7.jpeg)
+
+
+
